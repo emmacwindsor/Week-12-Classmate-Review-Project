@@ -1,10 +1,6 @@
-# Assignment-11
-6/23/19
+Week 12 Changes
 
-List of known bugs and/or issues:
+So for the last assignment, I was so blown away by everyone's project!! They all looked so great! 
 
-Under 'Contact Us', when you press 'submit', yes it takes you to the Mail page, which then allows you to directly email us...But, when you return to our Webpage, you'll find your message still there. It remains there until you have either erased the text, or else reloaded the page. Perhaps find a way to fix this, so that way the message will erase once one has sent their email.
+I decided to choose Jessica Standage's project to just improve one thing I thought I could help!! I loved the layout of her webpage for her family band, but I felt like the song list got a little lost in the picture. So I added a table for the song list to make it a bit more clear. It may not be the best stlye wise but I beleive it makes it a lot clealer and able to see te track names better. 
 
-TODO:
-
-Find a way to make one of our audio tracks to play automatically when a visitor loads the webpage.
